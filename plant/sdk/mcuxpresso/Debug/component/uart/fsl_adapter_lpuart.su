@@ -1,0 +1,8 @@
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:249:26:HAL_UartGetStatus	24	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:554:26:HAL_UartInitCommon	48	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:606:19:HAL_UartInit	24	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:660:19:HAL_UartDeinit	24	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:681:19:HAL_UartReceiveBlocking	32	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:696:19:HAL_UartSendBlocking	32	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:711:19:HAL_UartEnterLowpower	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/component/uart/fsl_adapter_lpuart.c:718:19:HAL_UartExitLowpower	16	static

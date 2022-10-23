@@ -1,0 +1,12 @@
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\CMSIS/core_cm7.h:1949:22:__NVIC_DisableIRQ	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\CMSIS/core_cm7.h:2041:22:__NVIC_SetPriority	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1123:20:PXP_Start	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1255:24:PXP_GetStatusFlags	24	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1279:20:PXP_ClearStatusFlags	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1334:20:PXP_EnableInterrupts	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:96:6:PXP_IRQHandler	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:113:20:lv_gpu_nxp_pxp_get_cfg	4	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:122:17:_lv_gpu_nxp_pxp_interrupt_init	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:139:13:_lv_gpu_nxp_pxp_interrupt_deinit	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:147:13:_lv_gpu_nxp_pxp_run	8	static

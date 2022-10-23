@@ -1,0 +1,2 @@
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/drivers/fsl_common_arm.c:159:13:DelayLoop	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/drivers/fsl_common_arm.c:189:6:SDK_DelayAtLeastUs	48	static

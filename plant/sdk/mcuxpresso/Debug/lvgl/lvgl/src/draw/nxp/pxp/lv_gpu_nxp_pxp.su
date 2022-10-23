@@ -1,0 +1,7 @@
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1334:20:PXP_EnableInterrupts	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1352:20:PXP_DisableInterrupts	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1869:20:PXP_EnableCsc1	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:71:10:lv_gpu_nxp_pxp_init	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:90:6:lv_gpu_nxp_pxp_deinit	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:97:6:lv_gpu_nxp_pxp_run	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:109:13:invalidate_cache	16	static

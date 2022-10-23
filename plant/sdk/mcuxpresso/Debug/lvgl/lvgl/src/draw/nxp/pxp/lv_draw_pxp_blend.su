@@ -1,0 +1,16 @@
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1193:20:PXP_SetProcessBlockSize	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1460:20:PXP_EnableAlphaSurfaceOverlayColorKey	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1523:20:PXP_SetProcessSurfaceBackGroundColor	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1690:20:PXP_SetRotateConfig	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\drivers/fsl_pxp.h:1869:20:PXP_EnableCsc1	16	static
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_color.h:379:24:lv_color_to32	24	static
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_color.h:443:48:lv_color_mix	32	static
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_color.h:597:26:lv_color_hex	24	static
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_area.h:123:26:lv_area_get_width	16	static
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_area.h:133:26:lv_area_get_height	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:145:10:lv_gpu_nxp_pxp_fill	80	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:231:10:lv_gpu_nxp_pxp_blit	104	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:333:10:lv_gpu_nxp_pxp_blit_transform	48	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:377:17:lv_gpu_nxp_pxp_blit_opa	64	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:418:17:lv_gpu_nxp_pxp_blit_cover	80	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:528:17:lv_gpu_nxp_pxp_blit_cf	120	static

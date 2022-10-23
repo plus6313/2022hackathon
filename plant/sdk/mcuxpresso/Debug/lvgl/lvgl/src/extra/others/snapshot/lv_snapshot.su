@@ -1,0 +1,4 @@
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/extra/others/snapshot/lv_snapshot.c:46:10:lv_snapshot_buf_size_needed	24	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/extra/others/snapshot/lv_snapshot.c:82:10:lv_snapshot_take_to_buf	480	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/extra/others/snapshot/lv_snapshot.c:161:16:lv_snapshot_take	40	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/extra/others/snapshot/lv_snapshot.c:192:6:lv_snapshot_free	16	static

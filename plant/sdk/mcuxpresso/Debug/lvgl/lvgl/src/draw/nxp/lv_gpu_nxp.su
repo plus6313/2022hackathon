@@ -1,0 +1,10 @@
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_area.h:110:20:lv_area_copy	16	static
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_area.h:123:26:lv_area_get_width	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:93:6:lv_draw_nxp_ctx_init	24	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:106:6:lv_draw_nxp_ctx_deinit	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:124:20:need_argb8565_support	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:136:13:lv_draw_nxp_blend	64	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:224:13:lv_draw_nxp_img_decoded	72	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:313:13:lv_draw_nxp_rect	88	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:345:17:draw_nxp_bg	48	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/lvgl/lvgl/src/draw/nxp/lv_gpu_nxp.c:390:13:lv_draw_nxp_arc	40	static

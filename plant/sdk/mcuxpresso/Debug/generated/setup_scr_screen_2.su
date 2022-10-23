@@ -1,0 +1,5 @@
+c:\nxp\gui-guider-projects\plant\sdk\core\lvgl\lvgl\src\misc\lv_color.h:592:26:lv_color_make	16	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\lvgl\lvgl/src/core/lv_obj_style.h:197:20:lv_obj_set_style_pad_all	24	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\lvgl\lvgl/src/widgets/lv_slider.h:84:20:lv_slider_set_value	24	static
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\lvgl\lvgl/src/widgets/lv_slider.h:106:20:lv_slider_set_range	24	static
+C:/NXP/GUI-Guider-Projects/plant/generated/setup_scr_screen_2.c:14:6:setup_scr_screen_2	16	static

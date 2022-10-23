@@ -1,0 +1,7 @@
+C:\NXP\GUI-Guider-Projects\plant\sdk\Core\lvgl\lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/source/lvgl_guider.c:41:13:AppTask	16	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/source/lvgl_guider.c:75:6:BOARD_ReconfigFlexSpiRxBuffer	40	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/source/lvgl_guider.c:126:5:main	24	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/source/lvgl_guider.c:163:6:vApplicationMallocFailedHook	4	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/source/lvgl_guider.c:172:6:vApplicationTickHook	8	static
+C:/NXP/GUI-Guider-Projects/plant/sdk/Core/source/lvgl_guider.c:183:6:vApplicationStackOverflowHook	16	static
